@@ -51,3 +51,4 @@ A new Flutter project.
     - [ ] Adicionar um para frequência
     - [ ] Reprovar o aluno que tiver frequência menor que 75% 
  "# mediaEscolar" 
+"# mediaEscolar" 
